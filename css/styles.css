@@ -57,3 +57,20 @@ ul {
   li a:hover {
     background-color: rgb(0, 0, 0);
   }
+  #brief {
+      display: flex;
+      float: left;
+      margin-left: 230px;
+  }
+  .more {
+      width: 600px;
+  }
+  #me {
+      text-align: center;
+  }
+  #skills {
+      flex-wrap: wrap;
+      display: flex;
+      justify-content: space-around;
+      margin-left: 40px;
+ }
