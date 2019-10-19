@@ -71,6 +71,12 @@ ul {
   #me {
       text-align: center;
   }
+  #me>.mem>h1 {
+    text-transform: uppercase;
+    height: 5px;
+    margin-top: 0px;
+    color: rgb(238, 51, 51);
+}
   #skills {
       flex-wrap: wrap;
       display: flex;
