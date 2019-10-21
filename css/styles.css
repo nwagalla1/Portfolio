@@ -87,7 +87,28 @@ ul {
       justify-content: space-around;
       margin-left: 40px;
  }
- #projects {
-     background-color: #F1F1F2;
-     height: 500px;
- }
+ .box2 {
+    width: 750px;
+    height: 500px;
+    background: url("/images/cellphone-communication-device-594452.jpg") no-repeat center center/cover;
+  }
+  .box1 {
+    width: 850px;
+    height: 500px;
+    background: blue
+  }
+#projects {
+   display: flex;
+}
+.mine {
+    text-align: center;
+    text-transform: uppercase;
+    margin-top: 30px;
+}
+.pigia {
+    display: flex;
+    justify-content: space-between;
+}
+.pigia > .piga {
+    text-align: center;
+}
