@@ -13,7 +13,7 @@ body {
     text-align: center;
 }
 #welcome {
-    background: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)), url("/images/backlit-dawn-desert-756774.jpg") no-repeat center center/cover;
+    background: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)), url("images/backlit-dawn-desert-756774.jpg") no-repeat center center/cover;
     height: 80vh;
     display: flex;
     flex-direction: column;
@@ -90,12 +90,12 @@ ul {
  .box2 {
     width: 750px;
     height: 500px;
-    background: url("/images/cellphone-communication-device-594452.jpg") no-repeat center center/cover;
+    background: url("images/cellphone-communication-device-594452.jpg") no-repeat center center/cover;
   }
   .box1 {
     width: 850px;
     height: 500px;
-    background: url("/images/architect-architecture-artist-268362.jpg") no-repeat center center/cover;
+    background: url("images/architect-architecture-artist-268362.jpg") no-repeat center center/cover;
   }
 #projects {
    display: flex;
@@ -130,7 +130,7 @@ ul {
 }
 #footer {
     height: 300px;
-    background: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)), url("/images/africa-kenya-malindi-1667843.jpg") no-repeat center center/cover;
+    background: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)), url("images/africa-kenya-malindi-1667843.jpg") no-repeat center center/cover;
     background-attachment: fixed;
     margin-top: -17px;
     display: flex;
