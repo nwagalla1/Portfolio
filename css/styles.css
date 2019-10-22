@@ -130,7 +130,7 @@ ul {
 }
 #footer {
     height: 300px;
-    background: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)), url("images/africa-kenya-malindi-1667843.jpg") no-repeat center center/cover;
+    background: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)), url("../images/africa-kenya-malindi-1667843.jpg") no-repeat center center/cover;
     background-attachment: fixed;
     margin-top: -17px;
     display: flex;
